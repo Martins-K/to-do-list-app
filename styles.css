@@ -1,0 +1,21 @@
+h1,
+h2 {
+	text-align: center;
+}
+
+.borderless td,
+.borderless th {
+	border: none;
+}
+
+.table {
+	border: none;
+}
+
+.col-3 {
+	float: right;
+}
+
+a {
+	color: inherit;
+}
